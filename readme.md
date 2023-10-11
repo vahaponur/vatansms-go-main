@@ -1,3 +1,6 @@
+### Bu paket vatan smsin golang paketinde error halinde panic dönmesini değiştirir. SİSTEMİNİZİN ÇÖKMESİNİ ENGELLER
+
+
  ### Kurulum
  ```go get github.com/vatanyazilim/vatansms-go```
  
