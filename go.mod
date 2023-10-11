@@ -1,4 +1,4 @@
-module github.com/vatanyazilim/vatansms-go
+module module github.com/vahaponur/vatansms-go-main
 
 go 1.15
 

@@ -2,7 +2,7 @@
 
 
  ### Kurulum
- ```go get github.com/vatanyazilim/vatansms-go```
+ ```go get github.com/vahaponur/vatansms-go-main```
  
  ### Toplu SMS
   ##### Her numaraya farklı mesajlar göndermek için;
