@@ -1,5 +1,6 @@
 ### Bu paket vatan smsin golang paketinde error halinde panic dönmesini değiştirir. SİSTEMİNİZİN ÇÖKMESİNİ ENGELLER
 
+###TURKCE KARAKTER GONDERIM ICIN smsNN.Type="Turkce" yapabilirsiniz 1N de de gecerlidir
 
  ### Kurulum
  ```go get github.com/vahaponur/vatansms-go-main```
